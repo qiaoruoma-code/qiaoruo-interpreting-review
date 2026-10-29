@@ -1,0 +1,6 @@
+{
+  "name": "口译工作坊复盘笔记交互复习",
+  "description": "专为口译研究生设计的中英双向口译复盘与主动回忆交互系统，包含正向翻译、反向回译与翻译思路练习，提供AI智能口译点评与独立SRS间隔复习。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
